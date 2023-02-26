@@ -34,6 +34,8 @@ Data model
 
 
 #My learnings from this project:
+
+
 ➕I Learned and used various SQL concepts like CTE’s, Group By, Aggregate functions, Joins, case, and Window functions.
 
 ➕ I thoroughly Studied the data for doing querying and analysis, Which is the main thing to do in your Analysis Project. Without Knowing our data it is impossible to conduct an analysis. 
