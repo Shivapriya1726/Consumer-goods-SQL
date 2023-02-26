@@ -6,7 +6,7 @@ Task:
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
 
-#What did I do in this project?
+# What did I do in this project?
 
 🔎 Loaded the SQL file and wrote SQL query for 10 ad_hoc requests.
 
@@ -20,7 +20,7 @@ Data model
 
 🔎 Created a Presentation to show the insights for the top-level management.
 
-#Insights gathered:
+# Insights gathered:
 
 🔎 There has been a positive increase in the number of unique products, which can be advantageous for the business.
 
@@ -33,7 +33,7 @@ Data model
 🔎 The maximum number of sales were for pen drives , which highlights their popularity and potential for continued success.
 
 
-#My learnings from this project:
+# My learnings from this project:
 
 
 ➕I Learned and used various SQL concepts like CTE’s, Group By, Aggregate functions, Joins, case, and Window functions.
